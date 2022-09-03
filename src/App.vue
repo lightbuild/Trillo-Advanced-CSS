@@ -122,6 +122,70 @@
             <div class="overview__rating-count">429 votes</div>
           </div>
         </div>
+        
+        <div class="detail">
+          <div class="description">
+            <p class="paragraph">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti dignissimos dolores fuga illo, magni neque obcaecati quasi qui ratione sit vero voluptatem voluptatum. Amet atque aut doloribus ipsum modi porro?
+            </p>
+            <p class="paragraph">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti dignissimos dolores fuga illo
+            </p>
+            <ul class="list">
+              <li class="list__item">Close to the beach</li>
+              <li class="list__item">Breakfast included</li>
+              <li class="list__item">Free airport shuttle</li>
+              <li class="list__item">Free wifi in all rooms</li>
+              <li class="list__item">Air conditioning and heating</li>
+              <li class="list__item">Pets allowed</li>
+              <li class="list__item">We speak all languages</li>
+              <li class="list__item">Perfect for families</li>
+            </ul>
+            <div class="recommend">
+              <p class="recommend__count">
+                Lucy and 3 other friends recommand this hotel.
+              </p>
+              <div class="recommand__friends">
+                <img src="./assets/images/user-1.jpg" alt="Friend 1" class="recommend__photo">
+                <img src="./assets/images/user-2.png" alt="Friend 2" class="recommend__photo">
+                <img src="./assets/images/user-3.jpg" alt="Friend 3" class="recommend__photo">
+                <img src="./assets/images/user-4.jpg" alt="Friend 4" class="recommend__photo">
+              </div>
+            </div>
+          </div>
+          <div class="user-reviews">
+            <figure class="review">
+              <blockquote class="review__text">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus animi commodi eius, eveniet numquam quo vero.
+              </blockquote>
+              <figcaption class="review__user">
+                <img src="./assets/images/user-1.jpg" alt="user 1" class="review__photo">
+                <div class="review__user-box">
+                  <p class="review__user-name">Light Build</p>
+                  <p class="review__user-date">May 20rd,2020</p>
+                </div>
+                <div class="review__rating">7.8</div>
+              </figcaption>
+            </figure>
+            
+            <figure class="review">
+              <blockquote class="review__text">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aperiam consectetur deleniti distinctio ex impedit.
+              </blockquote>
+              <figcaption class="review__user">
+                <img src="./assets/images/user-2.png" alt="user 1" class="review__photo">
+                <div class="review__user-box">
+                  <p class="review__user-name">Jany Thomas</p>
+                  <p class="review__user-date">Feb 22rd,2021</p>
+                </div>
+                <div class="review__rating">9.3</div>
+              </figcaption>
+            </figure>
+            
+            <button class="btn-inline">Show all <span>&rarr;</span></button>
+          </div>
+        </div>
+        
       </main>
     </div>
   </div>
